@@ -1,2 +1,2 @@
-# Duggi-Niharika_Sai-06
+# Duggi-Niharika-Sai-06
 My Personal Website
