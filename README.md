@@ -3,6 +3,9 @@ My Portfolio Website
 link https://duggi-niharika-sai-06.github.io/Duggi-Niharika-Sai-06/
 
 
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+
 # Hello
 <table>
   <tr>
