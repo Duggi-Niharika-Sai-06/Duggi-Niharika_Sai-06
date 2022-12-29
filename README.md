@@ -4,7 +4,6 @@ link https://duggi-niharika-sai-06.github.io/Duggi-Niharika-Sai-06/
 
 
 
-# Hello nice to see you!!!!
 
 <div align="left">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  </h2>
