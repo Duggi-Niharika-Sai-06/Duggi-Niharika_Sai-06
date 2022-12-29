@@ -28,7 +28,7 @@ link https://duggi-niharika-sai-06.github.io/Duggi-Niharika-Sai-06/
   </tr>
   </table>
 
-
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 # TechStack Generator
 
