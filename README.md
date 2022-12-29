@@ -43,5 +43,9 @@ link https://duggi-niharika-sai-06.github.io/Duggi-Niharika-Sai-06/
 ## Contribute
 
 
+## spidertocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='300"'>
+<br>
+<br>
 
 
