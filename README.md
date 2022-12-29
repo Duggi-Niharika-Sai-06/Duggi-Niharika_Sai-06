@@ -55,22 +55,11 @@ link https://duggi-niharika-sai-06.github.io/Duggi-Niharika-Sai-06/
 
 
 
-## screen open:
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
-<br>
-<br>
-<br>
-
-## screen open:
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
-<br>
+## coding freak:
+<img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
 <br>
 
 
-## phone-on:
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif" />
-<br>  
-<br>
-<br>
+
 
