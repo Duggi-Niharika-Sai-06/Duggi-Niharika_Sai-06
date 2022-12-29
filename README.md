@@ -22,8 +22,7 @@ link https://duggi-niharika-sai-06.github.io/Duggi-Niharika-Sai-06/
 <td >
   
   
-# this is my daily.dev card, you can edit this accordingly
-      
+    
     </td>
     
   </tr>
